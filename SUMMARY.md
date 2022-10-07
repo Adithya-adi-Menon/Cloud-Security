@@ -9,3 +9,5 @@
     * [Virtualization](introduction-to-cloud/core-concepts-of-cloud/virtualization.md)
     * [Sensitive Data](introduction-to-cloud/core-concepts-of-cloud/sensitive-data.md)
     * [Encryption](introduction-to-cloud/core-concepts-of-cloud/encryption.md)
+    * [Auditing and Compliance](introduction-to-cloud/core-concepts-of-cloud/auditing-and-compliance.md)
+* [Securing the Cloud](securing-the-cloud.md)
