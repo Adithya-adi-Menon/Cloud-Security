@@ -5,3 +5,7 @@
   * [Service models of Cloud](introduction-to-cloud/service-models-of-cloud.md)
   * [Cloud Models](introduction-to-cloud/cloud-models.md)
   * [Benefits of the cloud](introduction-to-cloud/benefits-of-the-cloud.md)
+  * [Core Concepts of Cloud](introduction-to-cloud/core-concepts-of-cloud/README.md)
+    * [Virtualization](introduction-to-cloud/core-concepts-of-cloud/virtualization.md)
+    * [Sensitive Data](introduction-to-cloud/core-concepts-of-cloud/sensitive-data.md)
+    * [Encryption](introduction-to-cloud/core-concepts-of-cloud/encryption.md)
